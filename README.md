@@ -4,10 +4,16 @@
 
 ## 💻Project
 
-During those days we learned a bit about HTML and CSS, developing our first landing page at Le Wagon.
+During 3 days we learned a bit about HTML and CSS, developing our first landing page at Le Wagon.
 
-## 💻  
- <li><a href=https://le-wagon-test.pavila.repl.co">Click here too see my page</a></li>
+This project was made in August, 2020.
+
+## 💻  Screenshots
+<div align="center">
+  <img src="https://github.com/palomavila/landingpage/blob/main/github/bg.png" alt"Banner" title="Banner" />
+ 
+ <div align="center">
+  <img src="https://github.com/palomavila/landingpage/blob/main/github/restof.png" alt"Cards+Footer" title="Cards+Footer" />
 
 ## 💻Technology
 
