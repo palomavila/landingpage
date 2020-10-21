@@ -24,7 +24,7 @@ We used some stuff during this project:
 
 ## 💻License
 
-Click here<a href="https://github.com/palomavila/landingpage/blob/main/LICENSE"></a>
+ <li><a href=https://github.com/palomavila/landingpage/blob/main/LICENSE">Click here</a></li>
 
 <p align="center">Made by Paloma ➰</p>
 
