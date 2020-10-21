@@ -1,8 +1,6 @@
-<div align="center">
 <h1> My first Landing Page</h1>
 
 
-<div align="center">
 ## 💻Project
 The website was created in 3 days.
 
@@ -16,6 +14,7 @@ This project was made in August, 2020.
  
  <div align="center">
   <img src="https://github.com/palomavila/landingpage/blob/main/github/restof.png" alt"Cards+Footer" title="Cards+Footer" />
+  
 
 ## 💻Technology
 
