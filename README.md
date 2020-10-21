@@ -4,7 +4,9 @@
 
 ## 💻Project
 
-The website was created in 3 days also we learned a bit about HTML and CSS, developing our first landing page at Le Wagon.
+The website was created in 3 days.
+
+Also we learned a bit about HTML and CSS, developing our first landing page at Le Wagon.
 
 This project was made in August, 2020.
 
