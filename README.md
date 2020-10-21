@@ -16,6 +16,7 @@ This project was made in August, 2020.
   <img src="https://github.com/palomavila/landingpage/blob/main/github/restof.png" alt"Cards+Footer" title="Cards+Footer" />
 
 <div align="left">
+  
 ## 💻Technology
 
 We used some stuff during this project: 
