@@ -4,13 +4,10 @@
 
 ## 💻Project
 
+During those days we learned a bit about HTML and CSS, developing our first landing page at Le Wagon.
 
-
-## 💻Screenshots 
-
-
-
-
+## 💻  
+ <li><a href=https://Le-Wagon-Test.pavila.repl.co">Click here too see my page</a></li>
 
 ## 💻Technology
 
