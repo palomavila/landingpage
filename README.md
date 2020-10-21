@@ -9,12 +9,11 @@ Also we learned a bit about HTML and CSS, developing our first landing page at L
 This project was made in August, 2020.
 
 ## 💻  Screenshots
-<div align="center">
+
   <img src="https://github.com/palomavila/landingpage/blob/main/github/bg.png" alt"Banner" title="Banner" />
  
- <div align="center">
+
   <img src="https://github.com/palomavila/landingpage/blob/main/github/restof.png" alt"Cards+Footer" title="Cards+Footer" />
-  
 
 ## 💻Technology
 
