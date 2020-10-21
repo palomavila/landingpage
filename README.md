@@ -1,9 +1,9 @@
+<div align="center">
 <h1> My first Landing Page</h1>
 
 
-
+<div align="center">
 ## 💻Project
-
 The website was created in 3 days.
 
 Also we learned a bit about HTML and CSS, developing our first landing page at Le Wagon.
